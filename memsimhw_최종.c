@@ -1,9 +1,7 @@
-//
+// 김세훈
 // Virual Memory Simulator Homework
 // Two-level page table system
 // Inverted page table with a hashing system 
-// Student Name:김세훈
-// Student Number:B311030
 //
 #include <stdio.h>
 #include <stdlib.h>
