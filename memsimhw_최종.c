@@ -9,8 +9,6 @@
 #include <stdlib.h>
 #include <assert.h>
 
-//Hi
-
 #define PAGESIZEBITS 12			// page size = 4Kbytes
 #define VIRTUALADDRBITS 32		// virtual address space size = 4Gbytes
 
